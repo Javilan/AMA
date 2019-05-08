@@ -1,0 +1,9 @@
+/* Here r some rules to abide by while writing css code. 
+Avoid global and element selectors
+Omit overly specific selectors
+Use semantic class names
+Don’t tie CSS too closely to markup structure
+comment your code
+write the css property in alphabetical order. 
+please try and follow these rules as many person will refer to thisvcode here. 
+and they need to understand what's written without much difficulty. */
