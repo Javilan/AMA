@@ -7,3 +7,22 @@ comment your code
 write the css property in alphabetical order. 
 please try and follow these rules as many person will refer to thisvcode here. 
 and they need to understand what's written without much difficulty. */
+
+
+/*CSS for navbar starts here.*/
+.nav-link:hover{
+  color: #fff;
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+
+.navbar-brand{
+  font-family: 'Sofia', cursive;
+  font-size: 1.5rem;
+}
+
+.navbar{
+  font-family: 'Open Sans', sans-serif;
+  padding: 1.5% 3%;
+}
+/*CSS for navbar ends here.*/
