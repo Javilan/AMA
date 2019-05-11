@@ -26,3 +26,24 @@ and they need to understand what's written without much difficulty. */
   padding: 1.5% 3%;
 }
 /*CSS for navbar ends here.*/
+
+/* CSS for Card Catalog starts here. */
+.cardCatalogs {
+  width: 1000px;
+  height: 1000px;
+  background-color: cornflowerblue;
+  margin: 3rem 2rem;
+  padding: 2%;
+  position: relative;
+}
+/* CSS for Card catalog ends here. */
+
+/* CSS for AMA accordion beings here. */
+.amaAccordion {
+  width: 1000px;
+  height: 700px;
+  background-color: coral;
+  margin: 3rem 2rem;
+  padding: 2%;
+  position: relative;
+}
