@@ -27,23 +27,39 @@ and they need to understand what's written without much difficulty. */
 }
 /*CSS for navbar ends here.*/
 
-/* CSS for Card Catalog starts here. */
-.cardCatalogs {
-  width: 1000px;
-  height: 1000px;
-  background-color: cornflowerblue;
-  margin: 3rem 2rem;
-  padding: 2%;
-  position: relative;
-}
-/* CSS for Card catalog ends here. */
 
-/* CSS for AMA accordion beings here. */
-.amaAccordion {
+/* CSS for Landing page begins here. */
+.landing-page-img {
   width: 1000px;
   height: 700px;
-  background-color: coral;
   margin: 3rem 2rem;
   padding: 2%;
   position: relative;
 }
+
+/* CSS for Landing page ends here. */
+
+
+
+/* CSS for Members page begins here. */
+.members-page-img {
+  width: 1000px;
+  height: 700px;
+  margin: 3rem 2rem;
+  padding: 2%;
+  position: relative;
+}
+
+/* CSS for Members page ends here. */
+
+
+
+/* CSS for Submissions page begins here. */
+
+
+
+
+
+
+
+/* CSS for Submissions page ends here. */
