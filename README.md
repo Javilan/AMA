@@ -1,8 +1,8 @@
 # AMA
 
-![AMA_logo@4x](https://user-images.githubusercontent.com/43989559/57753432-c250d880-7709-11e9-86d0-4a01a3674aa1.png)
-
 App Brewery project to learn and practice Bootstrap, CSS, Javascript, backend database development.
+
+<img width="324" alt="AMA_logo@2x" src="https://user-images.githubusercontent.com/43989559/57753598-30959b00-770a-11e9-9142-ddbecae8ef0b.png">
 
 # Purpose of the AMA project
 
